@@ -9,11 +9,11 @@
 baseurl = "/"
 
 # Title of your site
-title = "Jiawei Zhao"
+title = "Shizheng Wen"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; 2020"
 
 theme = "academic"
 enableEmoji = true
@@ -51,8 +51,8 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Jiawei Zhao"
-  role = "Ph.D. student"
+  name = "Shizheng Wen"
+  role = "Undergraduate student"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -62,8 +62,8 @@ enableGitInfo = false
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "jiawei@caltech.edu"
-  address = "1200 E California Blvd, Pasadena, CA 91125"
+  email = "szwen@nuaa.edu.cn"
+  address = "29 Yudao Street, Nanjing, China 210016"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = ""
   #skype = "echo123"
@@ -108,7 +108,7 @@ enableGitInfo = false
   font = "default"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
-  description = "Jiawei Zhao"
+  description = "Shizheng Wen"
 
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
   sharing_image = ""

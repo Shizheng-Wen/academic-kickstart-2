@@ -9,10 +9,10 @@ weight = 5
 
 # List your academic interests.
 #[interests]
-#  interests = [
-#    "Distributed Machine Learning",
-#    "Active Learning"
-#  ]
+  interests = [
+    "Distributed Machine Learning",
+    "Active Learning"
+  ]
 
 # List your qualifications (such as academic degrees).
 

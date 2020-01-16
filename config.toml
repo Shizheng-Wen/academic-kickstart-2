@@ -256,7 +256,7 @@ enableGitInfo = false
     icon = "envelope"
     icon_pack = "fas"
     #link = "#contact"  # For a direct email link, use "mailto:test@example.org".
-    link = "mailto:jiawei@caltech.edu"
+    link = "mailto:szwen@nuaa.edu.cn"
 
 #  [[params.social]]
 #    icon = "twitter"

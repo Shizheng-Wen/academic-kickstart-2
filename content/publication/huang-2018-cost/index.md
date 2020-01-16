@@ -6,6 +6,6 @@ publication_types = ["2"]
 abstract = ""
 selected = true
 publication = "*Journal of Quantitative Spectroscopy & Radiative Transfer (JQSRT)*"
-publication_short = "Publish in *JQSRT*"
+publication_short = "Published in *JQSRT*"
 +++
 

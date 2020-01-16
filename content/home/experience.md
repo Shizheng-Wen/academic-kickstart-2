@@ -31,7 +31,7 @@ date_format = "January 2006"
 
 [[experience]]
   title = "Undergraduate Researcher"
-  company = "Nanjing University of Aeronautics and Astronautics (NUAA)"
+  company = "Nanjing University of Aeronautics and Astronautics"
   company_url = ""
   location = "Nanjing, China"
   date_start = "2017-09-09"

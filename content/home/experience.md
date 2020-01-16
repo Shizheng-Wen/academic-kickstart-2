@@ -35,7 +35,7 @@ date_format = "January 2006"
   company_url = ""
   location = "Nanjing, China"
   date_start = "2017-09-09"
-  date_end = "2018-9-09"
+  date_end = "2018-09-09"
   description = """
   """
 +++

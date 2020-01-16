@@ -13,7 +13,7 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 9
 
-- I will start my machine learning research internship at NVIDIA in May, 2019.
+#- I will start my machine learning research internship at NVIDIA in May, 2019.
 +++
 
 

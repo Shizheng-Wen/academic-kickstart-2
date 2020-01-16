@@ -1,11 +1,11 @@
 +++
-title = "Cost-Effective Training of Deep CNNs with Active Model Adaptation"
-date = 2018-08-27
-authors = ["Sheng-Jun Huang", "Jia-Wei Zhao", "Zhao-Yang Liu"]
-publication_types = ["1"]
+title = "Ultrahigh thermal rectification based on near-field thermal radiation between dissimilar nanoparticles"
+date = 2019-05-28
+authors = ["Shizheng Wen", "Xianglei liu", "Sheng Cheng", "Zhoubing Wang", "Shenghao Zhang", "Chunzhuo Dang"]
+publication_types = ["2"]
 abstract = ""
 selected = true
-publication = "*Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, KDD 2018, London, UK, August 19-23, 2018.*"
-publication_short = "In *KDD*"
+publication = "*Journal of Quantitative Spectroscopy & Radiative Transfer (JQSRT)*"
+publication_short = "Publish in *JQSRT*"
 +++
 

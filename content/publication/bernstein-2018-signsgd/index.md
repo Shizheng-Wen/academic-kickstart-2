@@ -1,7 +1,7 @@
 +++
-title = "signSGD with Majority Vote is Communication Efficient And Byzantine Fault Tolerant"
-date = 2019-01-01
-authors = ["Jeremy Bernstein", "Jiawei Zhao", "Kamyar Azizzadenesheli", "Anima Anandkumar"]
+title = "Application of Convolutional Neural Networks for Feature Identification in Complex Fluid Flows"
+date = 2019-10-21
+authors = ["Shizheng Wen", "Michael W. Lee", "Kai M. Kruger Bastos", "Earl H. Dowell"]
 publication_types = ["1"]
 abstract = ""
 selected = true

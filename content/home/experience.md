@@ -20,22 +20,22 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Visiting Undergraduate Researcher"
-  company = "Duke University"
+  title = "Machine Learning Research Internship"
+  company = "NVIDIA"
   company_url = ""
-  location = "Durham, North Carolina"
-  date_start = "2019-07-07"
-  date_end = "2019-10-01"
+  location = "Santa Clara, California"
+  date_start = "2019-05-06"
+  date_end = "2019-09-16"
   description = """
   """
 
 [[experience]]
-  title = "Undergraduate Researcher"
-  company = "Nanjing University of Aeronautics and Astronautics (NUAA)"
+  title = "Visiting Undergraduate Research Program"
+  company = "California Institute of Technology (Caltech)"
   company_url = ""
-  location = "Nanjing, China"
-  date_start = "2017-09-01"
-  date_end = "2018-9-31"
+  location = "Pasadena, California"
+  date_start = "2018-07-09"
+  date_end = "2018-10-09"
   description = """
   """
 +++

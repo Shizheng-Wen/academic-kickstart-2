@@ -15,8 +15,3 @@ weight = 8
 
 +++
 
-- ICML 2019, Long Beach, United States
-- ICLR 2019, New Orleans, United States
-- China Symposium on Machine Learning and Applications 2018, Nanjing, China
-- PyTorch Developer Conference 2018, San Francisco, United States
-- KDD 2018, London, United Kingdom

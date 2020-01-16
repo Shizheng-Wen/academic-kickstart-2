@@ -30,12 +30,12 @@ date_format = "January 2006"
   """
 
 [[experience]]
-  title = "Visiting Undergraduate Research Program"
-  company = "California Institute of Technology (Caltech)"
+  title = "Undergraduate Researcher"
+  company = "Nanjing University of Aeronautics and Astronautics (NUAA)"
   company_url = ""
-  location = "Pasadena, California"
-  date_start = "2018-07-09"
-  date_end = "2018-10-09"
+  location = "Nanjing, China"
+  date_start = "2017-09-09"
+  date_end = "2018-9-09"
   description = """
   """
 +++

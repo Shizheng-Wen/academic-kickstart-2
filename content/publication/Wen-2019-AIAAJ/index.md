@@ -31,6 +31,7 @@ subsonic buffet over high-incidence airfoils over a wide range of Reynolds numbe
 
 ---
 __My Contributions:__
+
 + Trained a convolutional neural network (CNN) that was able to recognize several qualitatively different subsonic buffet flows over a high-incidence airfoil.
 +	Verified the capability of the CNN to identify large-scale coherent structures in agreement with those known to be associated with buffet flows by analyzing the convolutional kernels and corresponding feature maps.
 + Explored the sensitivity to hyperparameters including network architecture and convolutional kernel size. 

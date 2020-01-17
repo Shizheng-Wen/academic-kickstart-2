@@ -6,7 +6,7 @@ date = "2016-04-20T00:00:00"
 draft = false
 
 title = "Skills"
-subtitle = "Learning a language is almost as easy as forgetting a language. All skills ebb and flow with fluency in various seasons of life."
+subtitle = ""
 widget = "custom"
 
 # Order that this section will appear in.

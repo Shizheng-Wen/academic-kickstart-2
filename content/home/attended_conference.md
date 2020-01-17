@@ -1,23 +1,24 @@
 +++
-# Custom widget.
 # An example of using the custom widget to create your own homepage section.
 # To create more sections, duplicate this file and edit the values below as desired.
-widget = "custom"
-active = false
-#date = 2018-01-9T02:00:00
 
-# Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Attended conference & Presentation"
+date = "2016-04-20T00:00:00"
+draft = false
+
+title = "Awards"
 subtitle = ""
+widget = "custom"
 
 # Order that this section will appear in.
-weight = 8
+weight = 68
+
 +++
 
-- ICML 2019, Long Beach, United States
-- ICLR 2019, New Orleans, United States
-- China Symposium on Machine Learning and Applications 2018, Nanjing, China
-- PyTorch Developer Conference 2018, San Francisco, United States
-- KDD 2018, London, United Kingdom
++ Chancellor's Honorary Scholarships, NUAA (the highest honor for undergraduate student)                               
++ National Scholarship, Ministry of Education of P.R. China (top 1%)                                               
++ Boeing Scholarship, Boeing Aerospace company (16 among the whole university) 		 	                  	     
++ Excellent summer research report prize, NUAA (10 among the whole university)      
++ 3rd place in The Mathematical Contest In Modeling of NUAA
+
 
 

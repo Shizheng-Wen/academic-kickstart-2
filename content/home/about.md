@@ -10,20 +10,10 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-  "Platform Development of research environments presenting linguistic and language data",
-  "Web-based services for linguists",
-  "User experience design",
-  "Accessibility & usability of research data",
-  "Work flow design and optimization",
-  "Minority language text input",
-  "Linguistic cartography",
-  "Language documentation",
-  "Digital Asset Management",
-  "Orthography usage",
-  "Tone in Orthographies",
-  "Austronesian historical linguistics",
-  "Social-linguistic & non-aural factors influencing sound change",
-  "Phonetic articulations involving tongue protrusion"
+  "Fluid Mechanics",
+  "Machine Learning Method",
+  "Nanoscale Heat Transfer",
+  "Thermal Photovoltaic System",
   ]
   
 # List your qualifications (such as academic degrees).

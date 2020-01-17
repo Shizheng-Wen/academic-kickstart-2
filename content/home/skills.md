@@ -5,7 +5,7 @@
 date = "2016-04-20T00:00:00"
 draft = false
 
-title = "Skills"
+title = "Skills & Interests"
 subtitle = ""
 widget = "custom"
 
@@ -13,7 +13,7 @@ widget = "custom"
 weight = 69
 
 +++
-__Software__
+__Skills__
 
 + *Programming*: Python, Matlab, C++, C
 + *Modeling*: UG, ANSYS/Fluent, ICEM CFD, ProE, AutoCAD, SPSS, LINGO, Multisim

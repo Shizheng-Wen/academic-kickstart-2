@@ -7,8 +7,7 @@ abstract = ""
 selected = true
 publication = "Under review by *AIAA Journal*."
 publication_short = "Under review by *AIAA Journal*"
-#url_code = "https://github.com/PermiJW/signSGD-with-Majority-Vote"
-#url_poster = "poster.pdf"
+url_code = "https://github.com/Shizheng-Wen/CNN-identification-in-Fluid-Mechanics"
 
 +++
 

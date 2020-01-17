@@ -305,7 +305,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Awards"
-  url = "#posts"
+  url = "#attended_conference"
   weight = 4
 
 [[menu.main]]

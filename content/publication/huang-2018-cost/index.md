@@ -9,3 +9,6 @@ publication = "*Journal of Quantitative Spectroscopy & Radiative Transfer (JQSRT
 publication_short = "Published in *JQSRT*"
 +++
 
+**Citable as**:
+
+Richard Littauer, Hugh Paterson III (2016) <em>Open Source Code Serving Endangered Languages</em>. In: C. Soria, L. Pretorius, T. Declerck, J. Mariani, K. Scannell, Eveline Wandl-Vogt, eds., In Proceedings of LREC 2016 Collaboration and Computing for Under-Resourced Languages: Towards an Alliance for Digital Language Diversity (CCURL) Workshop. Portorož, Slovenia, 23 May, 2016. pp. 86-88.

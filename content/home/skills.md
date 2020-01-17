@@ -17,7 +17,7 @@ __Software__
 
 + *Programming*: Python, Matlab, C++, C
 + *Modeling*: UG, ANSYS/Fluent, ICEM CFD, ProE, AutoCAD, SPSS, LINGO, Multisim
-+ *Plottign*: KaleidaGraph, Tecplot
++ *Plotting*: KaleidaGraph, Tecplot
 + *Practicality*: Various Macnine Learning algorithms (Tensorflow), Finite Element Analysis (Solid/Fluid)
 
 ---

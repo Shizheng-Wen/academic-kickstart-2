@@ -9,6 +9,6 @@ publication = "*Journal of Quantitative Spectroscopy & Radiative Transfer (JQSRT
 publication_short = "Published in *JQSRT*"
 +++
 
-**Citable as**:
+**abstract**:
 
-Richard Littauer, Hugh Paterson III (2016) <em>Open Source Code Serving Endangered Languages</em>. In: C. Soria, L. Pretorius, T. Declerck, J. Mariani, K. Scannell, Eveline Wandl-Vogt, eds., In Proceedings of LREC 2016 Collaboration and Computing for Under-Resourced Languages: Towards an Alliance for Digital Language Diversity (CCURL) Workshop. Portorož, Slovenia, 23 May, 2016. pp. 86-88.
+The capability of manipulating heat flux at the nanoscale has many promising applications in modern electronics and information processing industries. In this paper, a design to achieve ultrahigh thermal rectification is proposed based on near-field thermal radiation between nanoparticles made of intrin- sic silicon and a dissimilar material. A record-high rectification ratio of more than 10 4 is theoretically demonstrated, and the underlying mechanism lies in the prominent increase of imaginary part of di- electric function of intrinsic silicon induced by thermally excited electrons at high temperatures. Effects of gap distances, materials and configurations of nanoparticles on the rectification ratio are also investi- gated. This work may pave the way for the design of efficient thermal diodes, thermal transistors, and other thermotronics devices.

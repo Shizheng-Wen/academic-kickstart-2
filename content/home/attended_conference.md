@@ -14,11 +14,11 @@ weight = 68
 
 +++
 
-+ Chancellor's Honorary Scholarships, NUAA (the highest honor for undergraduate student)                               
-+ National Scholarship, Ministry of Education of P.R. China (top 1%)                                               
-+ Boeing Scholarship, Boeing Aerospace company (16 among the whole university) 		 	                  	     
-+ Excellent summer research report prize, NUAA (10 among the whole university)      
-+ 3rd place in The Mathematical Contest In Modeling of NUAA
++ __Chancellor's Honorary Scholarships__, NUAA *(the highest honor for undergraduate student)*                               
++ __National Scholarship__, Ministry of Education of P.R. China *(top 1%)*                                               
++ __Boeing Scholarship__, Boeing Aerospace company *(16 among the whole university)* 		 	                  	     
++ __Excellent summer research report prize__, NUAA *(10 among the whole university)*      
++ __3rd place in The Mathematical Contest In Modeling of NUAA__, NUAA
 
 
 

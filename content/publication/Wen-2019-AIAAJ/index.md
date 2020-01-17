@@ -28,3 +28,12 @@ temporal information, the coherent structures remained qualitatively comparable 
 the conventional CNN and less dynamically significant features were no longer recorded. The
 coherent structures identified by these models enhance our dynamical understanding of
 subsonic buffet over high-incidence airfoils over a wide range of Reynolds numbers.
+
+---
+__My Contributions:__
++ Trained a convolutional neural network (CNN) that was able to recognize several qualitatively different subsonic buffet flows over a high-incidence airfoil.
++	Verified the capability of the CNN to identify large-scale coherent structures in agreement with those known to be associated with buffet flows by analyzing the convolutional kernels and corresponding feature maps.
++ Explored the sensitivity to hyperparameters including network architecture and convolutional kernel size. 
++	Trained a long-short term memory CNN and demonstrated that with the inclusion of temporal information, the coherent structures remained qualitatively comparable to those of the conventional CNN and less dynamically significant features were no longer recorded.
++	Contributed to a first-author paper to be submitted to AIAA Journal (leading research journal in Aerospace Engineering).
+

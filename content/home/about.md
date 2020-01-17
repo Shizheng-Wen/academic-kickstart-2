@@ -8,11 +8,11 @@ date = 2020-01-16T00:00:00
 weight = 5
 
 # List your academic interests.
-#[interests]
-#  interests = [
-#    "Distributed Machine Learning",
-#    "Active Learning"
-#  ]
+[[interests]]
+  interests = [
+    "Distributed Machine Learning",
+    "Active Learning"
+  ]
 
 # List your qualifications (such as academic degrees).
 

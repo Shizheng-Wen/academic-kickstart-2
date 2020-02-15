@@ -1,12 +1,13 @@
 +++
 title = "Ultrahigh thermal rectification based on near-field thermal radiation between dissimilar nanoparticles"
 date = 2019-05-28
-authors = ["Shizheng Wen", "Xianglei liu", "Sheng Cheng", "Zhoubing Wang", "Shenghao Zhang", "Chunzhuo Dang"]
+authors = ["__Shizheng Wen__", "Xianglei liu", "Sheng Cheng", "Zhoubing Wang", "Shenghao Zhang", "Chunzhuo Dang"]
 publication_types = ["2"]
 abstract = ""
 selected = true
-publication = "*Journal of Quantitative Spectroscopy & Radiative Transfer (JQSRT)*"
-publication_short = "Published in *JQSRT*"
+publication = "Journal of Quantitative Spectroscopy & Radiative Transfer, 234, _pp. 1-9_, https://doi.org/10.1016/j.jqsrt.2019.05.026"
+publication_short = "Journal of Quantitative Spectroscopy & Radiative Transfer, 234, _pp. 1-9_, https://doi.org/10.1016/j.jqsrt.2019.05.026"
+url_slides = "Presentation.pdf"
 +++
 
 **abstract**:

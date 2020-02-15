@@ -1,14 +1,13 @@
 +++
 title = "Application of Convolutional Neural Networks for Feature Identification in Complex Fluid Flows"
 date = 2019-10-21
-authors = ["Shizheng Wen", "Michael W. Lee", "Kai M. Kruger Bastos", "Earl H. Dowell"]
+authors = ["__Shizheng Wen__", "Michael W. Lee", "Kai M. Kruger Bastos", "Earl H. Dowell"]
 publication_types = ["2"]
 abstract = ""
 selected = true
 publication = "In submission"
 publication_short = "In submission"
-url_pdf = ""
-url_preprint = "Wen-2019-AIAAJ.pdf"
+url_pdf = "Wen-2019-AIAAJ.pdf"
 url_code = "https://github.com/Shizheng-Wen/CNN-identification-in-Fluid-Mechanics"
 url_slides = "Presentation.pdf"
 

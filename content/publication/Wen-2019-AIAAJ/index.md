@@ -31,8 +31,6 @@ the conventional CNN and less dynamically significant features were no longer re
 coherent structures identified by these models enhance our dynamical understanding of
 subsonic buffet over high-incidence airfoils over a wide range of Reynolds numbers.
 
-image = "CNN.png"
-
 ---
 __My Contributions:__
 

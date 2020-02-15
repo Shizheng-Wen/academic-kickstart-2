@@ -30,7 +30,6 @@ temporal information, the coherent structures remained qualitatively comparable 
 the conventional CNN and less dynamically significant features were no longer recorded. The
 coherent structures identified by these models enhance our dynamical understanding of
 subsonic buffet over high-incidence airfoils over a wide range of Reynolds numbers.
-"CNN.png"
 
 ---
 __My Contributions:__

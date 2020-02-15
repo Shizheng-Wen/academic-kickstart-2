@@ -2,7 +2,7 @@
 title = "Application of Convolutional Neural Networks for Feature Identification in Complex Fluid Flows"
 date = 2019-10-21
 authors = ["__Shizheng Wen__", "Michael W. Lee", "Kai M. Kruger Bastos", "Earl H. Dowell"]
-publication_types = ["2"]
+publication_types = ["3"]
 abstract = ""
 selected = true
 publication = "In submission"

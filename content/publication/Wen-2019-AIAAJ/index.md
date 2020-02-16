@@ -4,7 +4,7 @@ date = 2019-10-21
 authors = ["__Shizheng Wen__", "Michael W. Lee", "Kai M. Kruger Bastos", "Earl H. Dowell"]
 publication_types = ["3"]
 abstract = "Recent efforts have shown machine learning to be useful for analysis of nonlinear fluid dynamics."
-selected = true
+selected = false
 publication = "In submission"
 publication_short = "In submission"
 url_pdf = "Wen-2019-AIAAJ.pdf"
@@ -30,8 +30,6 @@ temporal information, the coherent structures remained qualitatively comparable 
 the conventional CNN and less dynamically significant features were no longer recorded. The
 coherent structures identified by these models enhance our dynamical understanding of
 subsonic buffet over high-incidence airfoils over a wide range of Reynolds numbers.
-
-[image]image = "CNN.png"
 
 ---
 __My Contributions:__

@@ -11,6 +11,18 @@ url_pdf = "Wen-2019-AIAAJ.pdf"
 url_code = "https://github.com/Shizheng-Wen/CNN-identification-in-Fluid-Mechanics"
 url_slides = "Presentation.pdf"
 
+# Does this page contain LaTeX math? (true/false)
+math = false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+[image]
+  # Caption (optional)
+  caption = "Architecture of the conventional CNN employed for buffet flow classification."
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = ""
 +++
 
 **abstract**:

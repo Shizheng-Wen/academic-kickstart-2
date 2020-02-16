@@ -21,7 +21,7 @@ date_format = "January 2006"
 
 
 [[experience]]
-  title = "Visiting Undergraduate Researcher"
+  title = "Machine-learning-assisted Fluid Mechanics"
   company = "Duke University"
   company_url = ""
   location = "Durham, North Carolina"
@@ -32,7 +32,7 @@ I became a member of [Aeroelasticity Group](http://aeroelasticity.pratt.duke.edu
   """
 
 [[experience]]
-  title = "Undergraduate Researcher"
+  title = "Near-field Thermal Photovoltaic System"
   company = "Nanjing University of Aeronautics and Astronautics"
   company_url = ""
   location = "Nanjing, China"
@@ -44,7 +44,7 @@ My friends collaborated with me on this project about the efficient near-field t
 
 
 [[experience]]
-  title = "Undergraduate Researcher"
+  title = "Radiation-based Thermal Rectifier"
   company = "Nanjing University of Aeronautics and Astronautics"
   company_url = ""
   location = "Nanjing, China"

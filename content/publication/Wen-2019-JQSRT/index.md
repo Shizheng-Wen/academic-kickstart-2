@@ -39,9 +39,7 @@ $$
 R_{ratio}=\frac{Q_f-Q_r}{Q_r}
 $$
 
-$$
-\text{where\,\,}Q_f\,\,\text{and\,\,}Q_r\,\,\text{represent\,\,net\,\,heat\,\,fluxes\,\,in\,\,the\,\,forward\,\,and\,\,reverse\,\,scenarios,\,\,respectively}.
-$$
+where Qf and Qr represent net heat fluxes in the forward and reverse scenarios, respectively.
 
 Although lots of researches have been done on this field, radiation-based thermal rectifiers still have a low rectification ratio compared with conduction-based counterparts, which can be as high as 100. Therefore, investigations on further improving the performance of radiation-based rectifiers are very imperative.
 

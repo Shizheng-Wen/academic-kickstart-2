@@ -21,6 +21,7 @@ corresponding feature maps, developed by the model with no temporal information 
 
 ---
 
+__Summary of this work:__
 
 This work applies machine learning for pattern recognition to a subsonic airfoil experiencing buffet at a high incidence angle and a range of Reynolds numbers. While previous research has applied machine learning to nonlinear fluid flows, little attention has been paid to the coherent structures constructed as part of the neural network. In the context of subsonic buffet flows, this new focus is of particular value.
 
@@ -35,6 +36,7 @@ You can learn more about this research in my paper!
 ---
 
 __My contributions:__
+
 + Trained a convolutional neural network (CNN) that was able to recognize several qualitatively different subsonic buffet flows over a high-incidence airfoil.
 +	Verified the capability of the CNN to identify large-scale coherent structures in agreement with those known to be associated with buffet flows by analyzing the convolutional kernels and corresponding feature maps.
 + Explored the sensitivity to hyperparameters including network architecture and convolutional kernel size. 

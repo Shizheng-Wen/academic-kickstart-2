@@ -39,7 +39,7 @@ I became a member of [Aeroelasticity Group](http://aeroelasticity.pratt.duke.edu
   date_start = "2018-10-01"
   date_end = "2019-03-01"
   description = """
-My friends collaborated with me on this project about the efficient near-field thermal photovoltaic system. In recent years, the research on near-field thermal photovoltaic cells has greatly improved the power and efficiency of the system. This work studied the changes in the performance of thermal photovoltaic cell system from the far-field to the near-field by adding filters between the emitter and semiconductor cells. Now, a co-author paper with my name is under preparation.
+My friends collaborated with me on this project about the efficient near-field thermal photovoltaic system under the advisement of Prof. Xianglei Liu. In recent years, the research on near-field thermal photovoltaic cells has greatly improved the power and efficiency of the system. This work studied the changes in the performance of thermal photovoltaic cell system from the far-field to the near-field by adding filters between the emitter and semiconductor cells. Now, a co-author paper with my name is under preparation.
   """
 
 

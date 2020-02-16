@@ -8,6 +8,19 @@ selected = true
 publication = "Journal of Quantitative Spectroscopy & Radiative Transfer, 234, _pp. 1-9_, https://doi.org/10.1016/j.jqsrt.2019.05.026"
 publication_short = "Journal of Quantitative Spectroscopy & Radiative Transfer, 234, _pp. 1-9_, https://doi.org/10.1016/j.jqsrt.2019.05.026"
 url_slides = "Presentation.pdf"
+
+# Does this page contain LaTeX math? (true/false)
+math = true
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+[image]
+  # Caption (optional)
+  caption = "Variations of thermal rectification ratio with respect to vaccum gap in previous studies and simulated results of the proposed design"
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = ""
 +++
 
 **abstract**:
@@ -20,7 +33,13 @@ __Summary of this work:__
 
 The development of modern electronics and information processing industries depends on the invention of electric diodes, which relies on the rectification of electrons flow. Nevertheless, due to the higher integration of circuits, the heat flux density has increased significantly. Subsequently, a high-temperature working condition may be resulted in, where electronic diodes tend to have low efficiency and even fail. On the other hand, heat flow can also be controlled, which may provide alternative ways to process information at harsh conditions. Thermal rectification is a phenomenon that allows heat flow in a more favorable direction. This phenomenon is promising to pave the way for the realization of future thermal diode/rectifier devices, and thus is attracting extensive attention.
 
-Previous researches on thermal rectification were based primarily on conduction and convection. Alternatively, radiation-based thermal rectifiers, which can avoid contact and intrusion, have been conceived. The performance of thermal rectifier can be characterized by the thermal rectification ratio as R = (Qf – Qr)/Qr, where Qf and Qr represent net heat fluxes in the forward and reverse scenarios, respectively.
+Previous researches on thermal rectification were based primarily on conduction and convection. Alternatively, radiation-based thermal rectifiers, which can avoid contact and intrusion, have been conceived. The performance of thermal rectifier can be characterized by the thermal rectification ratio as:
+
+$$
+R_{ratio}=\frac{Q_f-Q_r}{Q_r}
+$$
+
+R = (Qf – Qr)/Qr, where Qf and Qr represent net heat fluxes in the forward and reverse scenarios, respectively.
 
 Although lots of researches have been done on this field, radiation-based thermal rectifiers still have a low rectification ratio compared with conduction-based counterparts, which can be as high as 100. Therefore, investigations on further improving the performance of radiation-based rectifiers are very imperative.
 

@@ -7,7 +7,6 @@ abstract = ""
 selected = true
 publication = "In submission"
 publication_short = "In submission"
-url_pdf = "Dang-2020-IJHMT.pdf"
 
 # Does this page contain LaTeX math? (true/false)
 math = false

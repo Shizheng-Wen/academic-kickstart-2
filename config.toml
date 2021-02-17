@@ -89,7 +89,7 @@ enableGitInfo = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 1
+  map = 2
   map_api_key = ""
   latitude = "32.043568"
   longitude = "118.827136"
@@ -114,7 +114,7 @@ enableGitInfo = false
   sharing_image = ""
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
-  twitter = "jiawzhao"
+  twitter = "WenShizheng"
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -259,10 +259,10 @@ enableGitInfo = false
     #link = "#contact"  # For a direct email link, use "mailto:test@example.org".
     link = "mailto:szwen@nuaa.edu.cn"
 
-#  [[params.social]]
-#    icon = "twitter"
-#    icon_pack = "fab"
-#    link = "https://twitter.com/GeorgeCushen"
+  [[params.social]]
+    icon = "twitter"
+    icon_pack = "fab"
+    link = "https://twitter.com/WenShizheng"
 
   [[params.social]]
     icon = "google-scholar"

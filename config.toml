@@ -90,7 +90,7 @@ enableGitInfo = false
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
   map = 1
-  map_api_key = ""
+  map_api_key = "AIzaSyD4MD4b7LBJka7qfpQVnfKq4cGXmCdds1M"
   latitude = "32.043568"
   longitude = "118.827136"
   zoom = 15
@@ -314,10 +314,10 @@ enableGitInfo = false
   url = "#skills"
   weight = 4
 
-#[[menu.main]]
-#  name = "Contact"
-#  url = "#contact"
-#  weight = 6
+[[menu.main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 6
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

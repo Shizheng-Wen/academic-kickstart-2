@@ -21,12 +21,12 @@ weight = 5
 [[education.courses]]
   course = "BEc in Aircraft Power Engineering"
   institution = "Nanjing University of Aeronautics and Astronautics"
-  year = "2016-2020"
+  year = "2016 - 2020"
   
  [[education.courses]]
   course = "PhD Candidate in Nano Mechanics"
   institution = "Nanjing University of Aeronautics and Astronautics"
-  year = 2020
+  year = "2020 - Present"
  
 +++
 

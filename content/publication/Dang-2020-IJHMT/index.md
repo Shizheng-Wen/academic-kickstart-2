@@ -1,11 +1,11 @@
 +++
 title = "High-performance three-body near-field thermophotovoltaic energy conversion"
-date = 2021-06-21
-authors = ["Chunzhuo Dang", "Xianglei Liu", "Haifeng Xia", "Shizheng Wen","Qiao Xu"]
-publication_types = ["3"]
+date = 2020-10-11
+authors = ["Chunzhuo Dang", "Xianglei Liu", "Haifeng Xia", "__Shizheng Wen__","Qiao Xu"]
+publication_types = ["2"]
 abstract = ""
 selected = false
-publication = "Journal of Quantitative Spectroscopy and Radiative Transfer"
+publication = "Journal of Quantitative Spectroscopy & Radiative Transfer, 259, 107411, https://doi.org/10.1016/j.jqsrt.2020.107411"
 publication_short = "JQSRT"
 
 # Does this page contain LaTeX math? (true/false)

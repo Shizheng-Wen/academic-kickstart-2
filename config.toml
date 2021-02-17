@@ -63,9 +63,9 @@ enableGitInfo = false
 
   # Details for the Contact Widget
   email = "szwen@nuaa.edu.cn"
-  address = "29 Yudao Street, Nanjing, China 210016"
+  address = "A9 Building, 29 Yudao Street, Nanjing, China 210016"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "15651886178"
+  #phone = "15651886178"
   #skype = "echo123"
   #telegram = ""
   #keybase = ""  # Your keybase.io username.

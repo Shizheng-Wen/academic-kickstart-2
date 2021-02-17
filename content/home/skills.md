@@ -13,16 +13,6 @@ widget = "custom"
 weight = 69
 
 +++
-# __Skills__
-
-# + *Programming*: Python, Matlab, C++, C
-# + *Modeling*: UG, ANSYS/Fluent, ICEM CFD, ProE, AutoCAD, SPSS, LINGO, Multisim
-# + *Plotting*: KaleidaGraph, Tecplot
-# + *Practicality*: Various Macnine Learning algorithms (Tensorflow), Finite Element Analysis (Solid/Fluid)
-
-# ---
-# __Interests__
-
 + *Music*: Singing, Guitar, Violin
 + *Sports*: Tennis, Soccer, Billiards, Swimming
 + *Others*: Rubik's Cube, Performing Magic, Japanese Animation

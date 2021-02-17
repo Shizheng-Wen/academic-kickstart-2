@@ -6,7 +6,7 @@ publication_types = ["2"]
 abstract = ""
 selected = false
 publication = "Journal of Quantitative Spectroscopy & Radiative Transfer, 259, 107411, https://doi.org/10.1016/j.jqsrt.2020.107411"
-publication_short = "JQSRT"
+publication_short = "JQSRT, 259, 107411"
 
 # Does this page contain LaTeX math? (true/false)
 math = false

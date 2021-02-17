@@ -13,12 +13,9 @@ widget = "custom"
 weight = 68
 
 +++
-
-+ __Chancellor's Honorary Scholarships__, NUAA *(the highest honor for undergraduate student)*                               
-+ __National Scholarship__, Ministry of Education of P.R. China *(top 1%)*                                               
-+ __Boeing Scholarship__, Boeing Aerospace company *(16 among the whole university)* 		 	                  	     
-+ __Excellent summer research report prize__, NUAA *(10 among the whole university)*      
-+ __3rd place in The Mathematical Contest In Modeling of NUAA__, NUAA
-
++ __Outstanding undergraduate thesis Award__, NUAA, 2020
++ __University Achievement Award__, NUAA, 2020
++ __NUAA Presidential Fellowship__, NUAA, 2019                             
++ __National Scholarship__, Ministry of Education of P.R. China, 2019                                            
 
 

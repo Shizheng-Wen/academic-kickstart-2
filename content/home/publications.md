@@ -5,11 +5,11 @@ widget = "publications"
 active = true
 date = 2018-12-01T00:00:00
 
-title = "Recent Publications"
+title = "Publications"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 20
+weight = 10
 
 # Number of publications to list.
 count = 10

@@ -1,12 +1,12 @@
 +++
 title = "High-performance three-body near-field thermophotovoltaic energy conversion"
-date = 2019-06-21
+date = 2021-06-21
 authors = ["Chunzhuo Dang", "Xianglei Liu", "Haifeng Xia", "Shizheng Wen","Qiao Xu"]
 publication_types = ["3"]
 abstract = ""
-selected = true
-publication = "In submission"
-publication_short = "In submission"
+selected = false
+publication = "Journal of Quantitative Spectroscopy and Radiative Transfer"
+publication_short = "JQSRT"
 
 # Does this page contain LaTeX math? (true/false)
 math = false
@@ -24,7 +24,7 @@ math = false
 
 **abstract**:
 
-Three-body structures have shown great potentials in enhancing the heat transfer rate and controlling the radiation spectrum in the near-field region, whereas are rarely considered in improving near-field radiative energy conversion performance. Here, a three-body thermophotovoltaic system configured by a tungsten emitter, a metallic spectral control layer, and a In0.18Sb0.82Ga photovoltaic cell is considered. By parameter optimization of the spectrum control layer, the efficiency and output power at the gap distance of 10 nm are enhanced from 24.7% and 188000 W/m2 to 43.9% and 608000 W/m2, respectively. The potential mechanism lies in the excitation of coupled surface plasmon polaritons of the metallic spectral control layer. This work paves the way for applications of three-body structure in thermophotovoltaic systems and designing high-performance energy conversion systems.
+Three-body structures have shown great potentials in enhancing the heat transfer rate and tuning radiation spectrum in the near-field region, whereas are rarely considered in improving near-field radiative energy conversion performance. Here, a three-body thermophotovoltaic system configured by a tungsten emitter, a metallic spectrum control layer, and an In0.18Sb0.82Ga photovoltaic cell is considered. By parameter optimization of the spectrum control layer, the efficiency and output power at the gap distance of 10 nm are enhanced from 24.7% and 1.88×105 W/m2 to 35.3% and 3.62×105 W/m2, respectively. The potential mechanism lies in the excitation of coupled surface plasmon polaritons of the metallic spectrum control layer. This work paves the way for applications of three-body structure in thermophotovoltaic systems and designing high-performance energy conversion systems.
 
 ![图片文字](./featured.jpg)
 

@@ -3,9 +3,9 @@
 # To create more sections, duplicate this file and edit the values below as desired.
 
 date = "2016-04-20T00:00:00"
-draft = false
+draft = true
 
-title = "Skills & Interests"
+title = "Interests"
 subtitle = ""
 widget = "custom"
 
@@ -13,15 +13,17 @@ widget = "custom"
 weight = 69
 
 +++
-__Skills__
+# __Skills__
 
-+ *Programming*: Python, Matlab, C++, C
-+ *Modeling*: UG, ANSYS/Fluent, ICEM CFD, ProE, AutoCAD, SPSS, LINGO, Multisim
-+ *Plotting*: KaleidaGraph, Tecplot
-+ *Practicality*: Various Macnine Learning algorithms (Tensorflow), Finite Element Analysis (Solid/Fluid)
+# + *Programming*: Python, Matlab, C++, C
+# + *Modeling*: UG, ANSYS/Fluent, ICEM CFD, ProE, AutoCAD, SPSS, LINGO, Multisim
+# + *Plotting*: KaleidaGraph, Tecplot
+# + *Practicality*: Various Macnine Learning algorithms (Tensorflow), Finite Element Analysis (Solid/Fluid)
 
----
-__Interests__
+# ---
+# __Interests__
 
-Violin, Guitar, Tennis, Soccer, Billiards, Swimming, Singing, Rubik's Cube
++ *Music*: Singing, Guitar, Violin
++ *Sports*: Tennis, Soccer, Billiards, Swimming
++ *Others*: Rubik's Cube, Performing Magic, Japanese Animation
 
